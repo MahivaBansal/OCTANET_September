@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yC5yDNcwCSXH3uPqk8rc8V0HSDwlmt_L-Q&usqp=CAU">
+    <Font face="algerian" color="Purple" SIZE="8"><h1>Font style and image tag</h1> </Font><br>
+    <font face="MS PGothic" color="Green"SIZE="6"> This is arial font style</font><BR>
+    <font face="algerian" color="Blue"SIZE="6">this is algerian  font style</font><BR>
+
+        <a href="https://static.toiimg.com/thumb/msid-86801876,width-1070,height-580,imgsize-127716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" target="_blank" > 
+<img src="photo.jpeg" width="30%" height="30%" alt="GGSIPU image"></a></img>
+<br><br>
+            <a href="Q1 Home page.html">Click here to go Home page</a>
+</body>
+</html>
